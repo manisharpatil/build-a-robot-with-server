@@ -1,7 +1,7 @@
 {
   "name": "build-a-robot-with-server",
   "version": "0.1.0",
-  "engine": { 
+  "engines": { 
       "node": "16.13.2", 
       "npm": "8.5.0"
    },
